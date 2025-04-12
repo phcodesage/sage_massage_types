@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Massage Types</string>
+
+    <!-- Massage Types -->
+    <string name="swedish_name">Swedish Massage</string>
+    <string name="swedish_desc">Gentle full-body massage ideal for relaxation</string>
+    <string name="deep_tissue_name">Deep Tissue</string>
+    <string name="deep_tissue_desc">Targets deeper muscle layers for chronic pain</string>
+    <string name="sports_name">Sports Massage</string>
+    <string name="sports_desc">Helps prevent and treat sports injuries</string>
+    <string name="hot_stone_name">Hot Stone</string>
+    <string name="hot_stone_desc">Uses heated stones to relax muscles</string>
+</resources>
